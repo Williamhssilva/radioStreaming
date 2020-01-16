@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlagRadio</string>
+    <string name="edit_message">Faça um pedido</string>
+    <string name="button_send">Enviar</string>
+</resources>
